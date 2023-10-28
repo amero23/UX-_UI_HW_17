@@ -1,0 +1,133 @@
+div, nav {
+    display: inline-block;
+    vertical-align: top;
+
+}
+.inline-block logo{
+    width: 23%;
+    padding: 1%;
+}
+nav{
+    width: 73%;
+    padding: 1%;
+}
+
+nav ul{
+    width: 50%;
+    margin-left: auto;
+}
+
+nav li{
+    display: inline-block;
+    vertical-align: top;
+}
+.logo{
+    text-align: center;
+}
+
+.heroImg height{
+    height: 600px;
+    padding: 25px;
+}
+
+.content{
+    width: 500px;
+    margin: 0 auto;
+}
+
+footer{
+    background-color: #373738;
+
+}
+
+footer li{
+    display: inline-block;
+    vertical-align: top;
+}
+/* 
+.logopic img{
+    padding: 1%;
+    align-items: center;
+    margin-right: 1px;
+    padding-inline-start: 100px;
+}
+
+}
+.navbar{
+
+    height: 50px;
+    padding-inline-start: 100px;
+    display: flex;
+    justify-content: center;
+    vertical-align: top;
+}
+.navbar a{
+    color: black;
+    text-transform: uppercase;
+    margin-top: 10px;
+    vertical-align: top;
+    display: flex;
+    margin: inline-block;
+    width: 50%;
+    margin-left: auto;
+}
+
+.navbar ul{
+    margin-left: auto;
+    width:50%;
+}
+.mypicture img{
+    padding: 5px;
+    display: flex;
+    justify-content: start;
+    margin-left: 100px;
+}
+
+.Designer{
+    margin-left: 400px;
+    justify-content: center;
+    text-align: center;
+    padding: 100px;
+    margin: 100px;
+}
+h1{
+    margin: 10px;
+    padding: 10px;
+}
+
+.greentree img{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.moodlite img{
+    width: 500px;
+    margin: 0 auto;
+}
+.moodlite button{
+    margin: 50px;
+}   
+
+.greentree{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.greentree button{
+    margin: 50%;
+}
+
+footer {
+    background-color: black;
+}
+
+footer ul {
+    display: inline-block;
+    vertical-align: top;
+}
+
+footer a {
+    color: white;
+} */
